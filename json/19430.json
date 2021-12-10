@@ -1,0 +1,33 @@
+{
+  "dna": "5f300d2b215c67158c84c5b1db16390263679441",
+  "name": "Ticket #19430",
+  "description": "This ticket entitles its holder to forever participate in the Sweet Stacks lottery.",
+  "image": "ipfs://QmNsJA7vDWcHRSawrLNQbPY3PevugQq9YHEU7wZA62TN8s/19430.png",
+  "edition": 19430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background"
+    },
+    {
+      "trait_type": "Ones",
+      "value": "1"
+    },
+    {
+      "trait_type": "Tens",
+      "value": "8"
+    },
+    {
+      "trait_type": "Hundreds",
+      "value": "7"
+    },
+    {
+      "trait_type": "Thousands",
+      "value": "5"
+    },
+    {
+      "trait_type": "Ten Thousands",
+      "value": "2"
+    }
+  ]
+}
