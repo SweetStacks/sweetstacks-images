@@ -4,14 +4,14 @@ Look up the image and metadata for any of the 50,000 tickets in the Sweet Stacks
 
 ### Image
 
-"`/images/1.png`"
+`/images/1.png`
 
 ![](/images/1.png)
 
 
 ### Metadata
 
-"`/metadata/1`"
+`/metadata/1`
 
 ```json
 {
