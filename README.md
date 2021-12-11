@@ -1,17 +1,17 @@
 # Sweet Stacks Images & Metadata
 
-Look up the image and metadata for any of the 50,000 tickets in the Sweet Stacks collection.
+Look up the image and metadata for any of the 50,000 tickets in the Sweet Stacks collection
 
 ### Image
 
-"`/images/1.png`" contains
+"`/images/1.png`"
 
 ![](/images/1.png)
 
 
-### MetaData
+### Metadata
 
-"`/metadata/1`" contains
+"`/metadata/1`"
 
 ```json
 {
