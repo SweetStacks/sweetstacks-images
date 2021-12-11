@@ -1,13 +1,13 @@
-<h2 align="center">
-  <b>
-    Sweet Stacks Images & MetaData
-  </b>
+<p align="center">
+  <h1>
+    Sweet Stacks Images & Metadata
+  </h1>
   <br><i>50,000 ticket <a href="/images">images</a> and <a href="/metadata">metadata</a></i>
-</h2>
+</p>
 
 <br/>
 
-### How to use this repo
+## How to use this repo
 
 You can look up the image and metadata for any ticket
 
