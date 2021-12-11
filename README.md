@@ -1,8 +1,9 @@
+<h1 align="center">
+  Sweet Stacks Images & Metadata
+</h1>
+<br>
 <p align="center">
-  <h1>
-    Sweet Stacks Images & Metadata
-  </h1>
-  <br><i>50,000 ticket <a href="/images">images</a> and <a href="/metadata">metadata</a></i>
+  All 50,000 ticket <a href="/images">images</a> and <a href="/metadata">metadata</a> can be found here
 </p>
 
 <br/>
