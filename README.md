@@ -1,8 +1,6 @@
 # Sweet Stacks Images & Metadata
 
-## How to use this repo
-
-You can look up the image and metadata for any of the 50,000 tickets.
+Here you can look up the image and metadata for any of the 50,000 tickets in the Sweet Stacks collection.
 
 ### Image
 
