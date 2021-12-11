@@ -1,6 +1,6 @@
 # Sweet Stacks Images & Metadata
 
-Look up the image and metadata for any of the 50,000 tickets in the Sweet Stacks collection
+Look up the image and metadata for any of the 50,000 unique tickets in the collection. See example below.
 
 ### Image
 
