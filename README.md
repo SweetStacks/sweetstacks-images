@@ -1,11 +1,9 @@
-<p align="center">
+<h2 align="center">
   <b>
     Sweet Stacks Images & MetaData
   </b>
-
-  <br>
   <br><i>50,000 ticket <a href="/images">images</a> and <a href="/metadata">metadata</a></i>
-</p>
+</h2>
 
 <br/>
 
