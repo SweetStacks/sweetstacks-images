@@ -1,16 +1,8 @@
-<h1 align="center">
-  Sweet Stacks Images & Metadata
-</h1>
-<br>
-<p align="center">
-  All 50,000 ticket <a href="/images">images</a> and <a href="/metadata">metadata</a> can be found here
-</p>
-
-<br/>
+# Sweet Stacks Images & Metadata
 
 ## How to use this repo
 
-You can look up the image and metadata for any ticket
+You can look up the image and metadata for any of the 50,000 tickets.
 
 ### Image
 
