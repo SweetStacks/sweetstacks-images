@@ -1,8 +1,8 @@
 {
   "dna": "2c00e08a42693077de340c29c4cbed38e4b58ee7",
   "name": "Ticket #2048",
-  "description": "This ticket entitles its holder to forever participate in the Sweet Stacks lottery.",
-  "image": "ipfs://QmNsJA7vDWcHRSawrLNQbPY3PevugQq9YHEU7wZA62TN8s/2048.png",
+  "description": "This ticket never expires and entitles its holder to participate in the Sweet Stacks lottery.",
+  "image": "ipfs://QmPZTsU2naANgf9NCEx5Mc5hZuVUgxQYdNFSXrHd33WWhu/2048.png",
   "edition": 2048,
   "attributes": [
     {
