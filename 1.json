@@ -1,0 +1,33 @@
+{
+  "dna": "20c75cba09e785a9f2208397ce98bcf140584e2a",
+  "name": "Ticket #1",
+  "description": "This ticket never expires and entitles its holder to participate in the Sweet Stacks lottery.",
+  "image": "ipfs://QmPZTsU2naANgf9NCEx5Mc5hZuVUgxQYdNFSXrHd33WWhu/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background"
+    },
+    {
+      "trait_type": "Ones",
+      "value": "2"
+    },
+    {
+      "trait_type": "Tens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Hundreds",
+      "value": "4"
+    },
+    {
+      "trait_type": "Thousands",
+      "value": "9"
+    },
+    {
+      "trait_type": "Ten Thousands",
+      "value": "2"
+    }
+  ]
+}
